@@ -1,0 +1,18 @@
+{
+  "name": "MassiveBoggleBot",
+  "author": "Louis Trezzini <louis.trezzini@ponts.org>",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LouisTrezzini/MassiveBoogleBot"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  },
+  "private": true,
+  "license": "MIT"
+}
